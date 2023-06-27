@@ -1,0 +1,175 @@
+commit af69e5fe052ca9310a212e43c35b267f0eba88c0
+Merge: 0076a38 9122461
+Author: Ricardo Urdiera <133723418+urdiera12@users.noreply.github.com>
+Date:   Tue Jun 27 13:31:59 2023 -0600
+
+    Merge pull request #1 from urdiera09/readme-cuenta-dos
+    
+    Readme cuenta dos
+
+commit 9122461d3e067f1b79b3d76e2f47cf394c947b8e
+Merge: 6531de2 0076a38
+Author: urdiera09 <137918331+urdiera09@users.noreply.github.com>
+Date:   Tue Jun 27 13:28:05 2023 -0600
+
+    Merge branch 'main' into readme-cuenta-dos
+
+commit 6531de2f05e4392cef5aba6f45031d0a5a43721f
+Author: Ricardo urdiera martinez <ricardourdiera@gmail.com>
+Date:   Tue Jun 27 13:10:17 2023 -0600
+
+    haciendo mejoras al readme del repositorio
+
+commit 98996f3dd05473b34d31b5ec386c030c8a49cad1
+Author: Ricardo urdiera martinez <ricardourdiera@gmail.com>
+Date:   Tue Jun 27 12:58:36 2023 -0600
+
+    cambio en otra pc
+
+commit 0076a38592833d024468c2531e7385f1aa8c271c
+Author: Ricardo Urdiera <urdieramartinez@gmail.com>
+Date:   Tue Jun 27 12:40:39 2023 -0600
+
+    numero dos
+
+commit 75ec4bc3cc5f5f528d75e8e83070482fd768acab
+Merge: 0ac8c5c 6136eae
+Author: Ricardo Urdiera <urdieramartinez@gmail.com>
+Date:   Tue Jun 27 11:38:48 2023 -0600
+
+    hola mundo
+
+commit 0ac8c5ca7e9e21fd5d9749fcd1eb790c646103fb
+Author: Ricardo Urdiera <urdieramartinez@gmail.com>
+Date:   Tue Jun 27 11:36:46 2023 -0600
+
+    comentario de hola mundo
+
+commit 6136eae388fdc6915f475ec792e5629da3508be3
+Author: Ricardo Martinez <ricardourdiera@gmail.com>
+Date:   Tue Jun 27 11:20:59 2023 -0600
+
+    segunda prueba de cambio de cuenta de git
+
+commit 5d20e9151d6b35bec3b752ea8e4c91b9c1d077b6
+Author: Ricardo Urdiera <urdieramartinez@gmail.com>
+Date:   Wed Jun 21 10:48:11 2023 -0600
+
+    Agregando imagen de flujo git y poniendo bien el index html con css
+
+commit a40abd3c18617b13b8bd2529e393b50d66baddda
+Author: Ricardo Urdiera <urdieramartinez@gmail.com>
+Date:   Wed Jun 21 10:07:56 2023 -0600
+
+    v1.0.0
+
+commit 9bb36d93aeefd509d80c79890a208eac61a1df3a
+Author: Ricardo Urdiera <urdieramartinez@gmail.com>
+Date:   Thu Jun 15 19:03:56 2023 -0600
+
+    Respaldando los log del repositorio
+
+commit 1bd0a77d6cf973bbc6375271d9019429c35ce05a
+Author: Ricardo Urdiera <urdieramartinez@gmail.com>
+Date:   Thu Jun 15 18:27:50 2023 -0600
+
+    Agregando dos parrafos al final
+
+commit aa25a09cba7a8e7393f8b112f5911bf3194bc691
+Merge: 85bcfe4 3816866
+Author: Ricardo Urdiera <urdieramartinez@gmail.com>
+Date:   Thu Jun 15 18:25:23 2023 -0600
+
+    resolviendo conflicto en las estaciones del año con sus fechas de inicio
+
+commit 85bcfe4ad9aabe7e6640182fe4951284a6cfe513
+Author: Ricardo Urdiera <urdieramartinez@gmail.com>
+Date:   Thu Jun 15 18:11:03 2023 -0600
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 3816866b26bd93236be1372659ff61baddf3bde4
+Author: Ricardo Urdiera <urdieramartinez@gmail.com>
+Date:   Thu Jun 15 18:11:03 2023 -0600
+
+    agregando las estaciones del año
+
+commit 65c9ad6aed13fec3bf86e47154086e0f5452b5e9
+Merge: a14af44 e0429ac
+Author: Ricardo Urdiera <urdieramartinez@gmail.com>
+Date:   Wed Jun 14 19:46:57 2023 -0600
+
+    resolviendo conflicto merge main/hmtl en el documento html
+
+commit e0429aced4f3e18bd84b63508379d6c6eb756fc8
+Author: Ricardo Urdiera <urdieramartinez@gmail.com>
+Date:   Wed Jun 14 19:41:20 2023 -0600
+
+    agregando del index js al index html
+
+commit a14af446b9aa9bcde1cf3fd77d4f8461a18bd044
+Author: Ricardo Urdiera <urdieramartinez@gmail.com>
+Date:   Wed Jun 14 19:39:34 2023 -0600
+
+    agregando stilo al index.html
+
+commit f7cd2a5f93605ffd873d675f5cb5eea552bac212
+Merge: be9b54e ee66ddf
+Author: Ricardo Urdiera <urdieramartinez@gmail.com>
+Date:   Wed Jun 14 19:29:08 2023 -0600
+
+    Merge branch 'js'
+
+commit ee66ddf4dfaeb782d0213e583aa27e1948c5f7db
+Author: Ricardo Urdiera <urdieramartinez@gmail.com>
+Date:   Wed Jun 14 19:24:30 2023 -0600
+
+    Creando js en la nueva rama
+
+commit be9b54ea6a61a036387f141544c3db6bcae6b845
+Author: Ricardo Urdiera <urdieramartinez@gmail.com>
+Date:   Wed Jun 14 19:20:24 2023 -0600
+
+    creando estilos en css
+
+commit b1e143204c00319d66c2ab2df926556483739a3d
+Author: Ricardo Urdiera <urdieramartinez@gmail.com>
+Date:   Wed Jun 14 19:14:56 2023 -0600
+
+    creando index html
+
+commit bed4ba8c1a5ce4897bfd377e0a82ed08a8d18d80
+Author: Ricardo Urdiera <urdieramartinez@gmail.com>
+Date:   Wed Jun 14 18:57:08 2023 -0600
+
+    borre un elemento mal
+
+commit 0a78fa99f99a3c23b0a2788bc5a935bd1559c18d
+Author: Ricardo Urdiera <urdieramartinez@gmail.com>
+Date:   Wed Jun 14 18:55:00 2023 -0600
+
+    ignorando archivos .exe
+
+commit 161950ba69e067f30da034423e7bd569f8b4ab7c
+Author: Ricardo Urdiera <133723418+urdiera12@users.noreply.github.com>
+Date:   Tue Jun 13 18:04:31 2023 -0600
+
+    Creando licencia del repositorio
+
+commit c3e7ab5d7a740399a1714de79a418b2b58325bf9
+Author: Ricardo Urdiera <urdieramartinez@gmail.com>
+Date:   Tue Jun 13 17:56:26 2023 -0600
+
+    Agregando mas contenido al readme
+
+commit 4ba95a0f20e56cdcacb75b6ca874cfa131dfd1b7
+Author: Ricardo Urdiera <urdieramartinez@gmail.com>
+Date:   Tue Jun 13 17:46:19 2023 -0600
+
+    agregando contenido inicial al readme
+
+commit 04707f05349a55b69a1f01d2813957dc5d032422
+Author: Ricardo Urdiera <urdieramartinez@gmail.com>
+Date:   Tue Jun 13 16:24:42 2023 -0600
+
+    Primer commit 😊
