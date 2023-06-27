@@ -10,5 +10,3 @@ Esto es para poder dominar un poco de como se usa _git y gt hub_
 
 este es un commit para ser oficial en la version **1.0.0**
 
-
-
